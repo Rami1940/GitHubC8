@@ -3,7 +3,13 @@ public class HelloWorld {
         System.out.println("Hello Wolrd!");
         for (int i = 0; i <10 ; i++) {
             System.out.println(i);
-
+// this needs to be a while loop
+            int num = 0;
+            while(i<10) {
+                System.out.println("The number is "+i);
+                i++;
+            }
+            
         }
     }
 }
