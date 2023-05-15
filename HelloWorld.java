@@ -10,7 +10,7 @@ public class HelloWorld {
                 System.out.println("The number is "+num);
                 num++;
             }
-            
+                    System.out.println("The is the end of work in Github");
         }
     }
 
