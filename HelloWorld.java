@@ -5,7 +5,7 @@ public class HelloWorld {
         some
         codes
         for
-        loginPage
+        landingpage
         */  
     }
 }
