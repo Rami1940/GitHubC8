@@ -6,6 +6,6 @@ public class HelloWorld {
         for
         loginPage
         */  
-        }
     }
+}
 
